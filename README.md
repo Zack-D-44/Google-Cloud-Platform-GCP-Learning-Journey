@@ -29,10 +29,15 @@ Expect to find (as I build it out):
 ## 📂 Repository Structure (planned)
 
 Google-Cloud-Platform-Learning-Journey/
+
 │── notes/ # Written notes & documentation (e.g. .docx, .md)
+
 │── code-examples/ # Practical code snippets & challenges
+
 │── projects/ # Labs, walkthroughs, proof-of-concepts
+
 │── resources/ # Helpful links, references & best practices
+
 │── README.md # This file
 
 ---
